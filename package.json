@@ -1,0 +1,19 @@
+{
+  "name": "geo-conver",
+  "version": "1.0.0",
+  "description": "wgs84 XD2000 gcj02 convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqq123/geo-conver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cqq123/geo-conver/issues"
+  },
+  "homepage": "https://github.com/cqq123/geo-conver#readme"
+}
